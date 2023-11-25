@@ -10,9 +10,9 @@ p{
     text-align: center;
 }
 .top-child{
-    padding-left: 10em;
-    padding-right: 10em;
     background-color:#ffd9df ;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 #middle{
