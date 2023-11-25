@@ -11,8 +11,8 @@ p{
 }
 .top-child{
     background-color:#ffd9df ;
-    padding-left: 20px;
-    padding-right: 20px;
+    display: inline-block;
+    width: 20%; /* もしくは適切な幅を指定 */
 }
 
 #middle{
