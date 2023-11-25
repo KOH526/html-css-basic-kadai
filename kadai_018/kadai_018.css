@@ -13,6 +13,8 @@ p{
     background-color:#ffd9df ;
     display: inline-block;
     width: 20%; /* もしくは適切な幅を指定 */
+    margin-top:20px;
+    margin-bottom:20px;
 }
 
 #middle{
